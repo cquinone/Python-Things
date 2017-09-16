@@ -1,6 +1,6 @@
 # Python bits
 
-Stack_Queue.py is a an implementation of stacks / queues 
+Stack_Queue.py is a an implementation of stacks / queues.
 
 Paint.py is a terminal based paint program.
 Use the command "newpic", and you have a canvas to make points and draw lines on.
