@@ -1,4 +1,4 @@
-# Python bits
+# Python things
 
 Stack_Queue.py is a an implementation of stacks / queues.
 
