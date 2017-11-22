@@ -1,5 +1,8 @@
 # Python things
 
+Bogg.py is boggle made with Tkinter. Run from command line, click and initial letter to start a word, used "WASD" to add letters, ("QEZC" for diagonal movement), "l" to check what words you found. Click again on the last letter to finish the word. 
+Requires Echcant package and numpy.
+
 Stack_Queue.py is a an implementation of stacks / queues.
 
 Paint.py is a terminal based paint program.
