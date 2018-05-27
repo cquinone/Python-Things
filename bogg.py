@@ -4,19 +4,16 @@ import random
 import enchant
 import re
 
-
 def sort_scores(data):
 	order = dict()
 	fixed = []
 	lines = open("scores.txt").read().split("\n")
-	print "lines: ", lines
 	curr_score = str(data.score)
 	if len(curr_score) == 1:
 		curr_score = "0"+curr_score
 	lines.append(curr_score+"	"+data.name)
 	for score in lines:
 		fixed.append(re.sub(r"\W", "", score))	
-	print "fixed: ", fixed
 	for entry in fixed:
 		if entry == "":
 			continue
