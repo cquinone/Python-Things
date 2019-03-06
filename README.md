@@ -1,4 +1,4 @@
-# Python Games
+# Python Things
 
 * Bogg.py is boggle made with Tkinter. Run from command line, click and initial letter to start a word, use "WASD" to add letters ("QEZC" for diagonal movement), and "l" to check what words you've found. Click again on the last letter to finish the word. 
 Required packages: Enchant and Numpy.
