@@ -5,6 +5,9 @@ Required packages: Enchant and Numpy.
 
 * Stack_Queue.py is a an implementation of stacks / queues.
 
+* Polyomino.py generates random binary grids 
+and calculates the average "island" (contiguous single state chunks) size via DFS from N=2 to N=50
+
 * Paint.py is a terminal based paint program.
 Use the command "newpic", and you have a canvas to make points and draw lines on.
 
