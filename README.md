@@ -17,5 +17,3 @@ Use the command "newpic", and you have a canvas to make points and draw lines on
 
 * Connect.py is a template to create graphs connecting different objects, using Tkinter.
 
-* Wager.py is a continuous version of the game "Wits or Wagers", where instead you draw a probabiltiy distribution as your guess
-
